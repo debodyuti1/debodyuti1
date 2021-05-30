@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Developement and UI/UX.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX Design as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for any collaborative work, would love to do that.\
-✉️ &nbsp;You can shoot me an email at db8145@srmist.edu.in !\
+✉️ &nbsp;You can shoot me an email at db8145@srmist.edu.in !
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
