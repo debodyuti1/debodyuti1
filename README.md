@@ -13,6 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for any collaborative work, would love to do that.\
 ✉️ &nbsp;You can shoot me an email at db8145@srmist.edu.in !
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debodyuti1&label=Profile%20views&color=0e75b6&style=flat" alt="debodyuti1" /> </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
