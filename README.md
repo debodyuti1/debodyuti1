@@ -1,7 +1,3 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Debodyuti -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
 ### Hello there 👋
 
 A Product Designer by day ☀️ and a Builder exploring AI, Data & Design by night 🌙
